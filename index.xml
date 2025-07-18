@@ -7,5 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jul 2025 22:12:54 -0500</lastBuildDate><atom:link href="https://TRAVI5TY.github.io/webLog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VI5</title>
+      <link>https://TRAVI5TY.github.io/webLog/posts/vi5/</link>
+      <pubDate>Thu, 17 Jul 2025 22:12:54 -0500</pubDate>
+      
+      <guid>https://TRAVI5TY.github.io/webLog/posts/vi5/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s my first album. Then there&amp;rsquo;s my second album down there, maybe they are EPs?
+Each lil picture is a different album, and they will all play at the same time
+if you hit play on all of them, which i do not recommend.
+I recommend playing them all separately.&lt;/p&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3685308515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/velvet-moonlight&#34;&gt;Velvet Moonlight by Vi5&lt;/a&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;border: 0; width: 350px; height: 470px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=653895443/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/unfounded-sounds&#34;&gt;Unfounded Sounds by Vi5&lt;/a&gt;&lt;/iframe&gt; &lt;iframe style=&#34;border: 0; width: 350px; height: 470px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2425445746/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/faradocontractility&#34;&gt;Faradocontractility by VI5&lt;/a&gt;&lt;/iframe&gt;
+You can see above to the right my favorite album of mine with the eyeball.
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1292315357/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/c-sides&#34;&gt;C Sides by Vi5&lt;/a&gt;&lt;/iframe&gt;
+And then the last thing I was proud enough of to post publicly, right above here.</description>
+    </item>
+    
+    <item>
+      <title>I Ain&#39;t Ever Made a Website Before</title>
+      <link>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Jul 2025 21:25:22 -0500</pubDate>
+      
+      <guid>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</guid>
+      <description>&lt;p&gt;I used AI (qwq) on my computer via Ollama. I thought, &amp;ldquo;self, you should
+do a website.&amp;rdquo;
+but, you see, self has never done a website. so i wanted to put this lil
+ai guy (who is a gal, canonically) to work. haha. that&amp;rsquo;s right folks, i&amp;rsquo;m
+an ai guy now.
+&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/posts/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
+Now, I know what you&amp;rsquo;re thinking because I&amp;rsquo;m from the future.
+The process has not been without its ups and downs, like I got it to help
+me a lot embedding my music from bandcamp, as well as that there
+image right above us of the Astronauts (again, created with flux-dev
+generative AI ran locally on my own computer via ComfyUI).
+But I had some trouble understanding the tagging system? If that&amp;rsquo;s a real thing?
+Idk it kept giving me code instructions like:&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,14 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://TRAVI5TY.github.io/webLog/tags/music/</loc>
+    <lastmod>2025-07-17T22:12:54-05:00</lastmod>
+  </url><url>
     <loc>https://TRAVI5TY.github.io/webLog/posts/</loc>
+    <lastmod>2025-07-17T22:12:54-05:00</lastmod>
+  </url><url>
+    <loc>https://TRAVI5TY.github.io/webLog/tags/</loc>
+    <lastmod>2025-07-17T22:12:54-05:00</lastmod>
+  </url><url>
+    <loc>https://TRAVI5TY.github.io/webLog/posts/vi5/</loc>
+    <lastmod>2025-07-17T22:12:54-05:00</lastmod>
+  </url><url>
+    <loc>https://TRAVI5TY.github.io/webLog/tags/vi5/</loc>
     <lastmod>2025-07-17T22:12:54-05:00</lastmod>
   </url><url>
     <loc>https://TRAVI5TY.github.io/webLog/</loc>
     <lastmod>2025-07-17T22:12:54-05:00</lastmod>
   </url><url>
-    <loc>https://TRAVI5TY.github.io/webLog/categories/</loc>
+    <loc>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</loc>
+    <lastmod>2025-07-17T21:25:22-05:00</lastmod>
   </url><url>
-    <loc>https://TRAVI5TY.github.io/webLog/tags/</loc>
+    <loc>https://TRAVI5TY.github.io/webLog/categories/</loc>
   </url>
 </urlset>
