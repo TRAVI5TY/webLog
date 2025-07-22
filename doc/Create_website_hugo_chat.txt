@@ -228,7 +228,7 @@ git push -u origin main
 
 But wait—Hugo sites need special configuration to work with GitHub Pages due to static file locations. Need step-by-step instructions tailored to your setup?
 
-Bot: I'll walk you through the GitHub Pages setup specifically for Hugo:
+CharlotteGHT: I'll walk you through the GitHub Pages setup specifically for Hugo:
 1. First, create a publish directory in your Hugo config. Add this to your hugo.toml:
 ```toml
 publishDir = "public"

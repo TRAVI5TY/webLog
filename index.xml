@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woolgathering</title>
-    <link>http://localhost:1313/webLog/</link>
+    <link>https://TRAVI5TY.github.io/webLog/</link>
     <description>Recent content on Woolgathering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 21:06:42 -0500</lastBuildDate><atom:link href="http://localhost:1313/webLog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 21:06:42 -0500</lastBuildDate><atom:link href="https://TRAVI5TY.github.io/webLog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Post with the Least</title>
-      <link>http://localhost:1313/webLog/posts/post2/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/post2/</link>
       <pubDate>Mon, 21 Jul 2025 21:06:42 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/post2/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/post2/</guid>
       <description>&lt;p&gt;I realized that as long as github &amp;amp; bandcamp are up and running, these posts will be out there, in the ether of web2.
 Are we still in web2? I forget. Also, wasn&amp;rsquo;t web3 NFTs? How are those pictures doing these days? Worth millions orrrrrr&amp;hellip;
-&lt;img src=&#34;http://localhost:1313/webLog/img/monke.png&#34; alt=&#34;how much for the monkey?&#34;&gt;
+&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/static/img/monke.png&#34; alt=&#34;how much for the monkey?&#34;&gt;
 I don&amp;rsquo;t think I should be living inside other people&amp;rsquo;s dreams, yet I evidently have taken up residence in them.&lt;br&gt;
 Oh, look at mr. big words. &amp;ldquo;You must think you&amp;rsquo;re better than me.&amp;rdquo; I guess I&amp;rsquo;m gonna start hearing that more if I ever
 leave the house and start having conversations with strangers again.&lt;br&gt;
@@ -25,7 +25,7 @@ and even &amp;ldquo;the CLI.&amp;rdquo; I want this to impress someone other tha
 So how did I use Ai in this post? Well, there&amp;rsquo;s that silly picture up there. I only generate images locally, using my computer
 and stable diffusion or flux models. I think there&amp;rsquo;s a new model that&amp;rsquo;s fully trained on public domain images and not art but
 I haven&amp;rsquo;t figured that one out yet.&lt;br&gt;
-&lt;img src=&#34;http://localhost:1313/webLog/img/hackr.png&#34; alt=&#34;you&amp;rsquo;re a hacker, harry&#34;&gt;
+&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/static/img/hackr.png&#34; alt=&#34;you&amp;rsquo;re a hacker, harry&#34;&gt;
 Why am I making this blog? I just wanted to see if I could publish some kind of website. So now I have to at least add some
 content to it.&lt;br&gt;
 Oh, btw, if u hate Ai check out this link to
@@ -35,10 +35,10 @@ Oh, btw, if u hate Ai check out this link to
     
     <item>
       <title>VI5</title>
-      <link>http://localhost:1313/webLog/posts/vi5/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/vi5/</link>
       <pubDate>Thu, 17 Jul 2025 22:12:54 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/vi5/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/vi5/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s my first album. Then there&amp;rsquo;s my second album down there, maybe they are EPs?
 Each lil picture is a different album, and they will all play at the same time
 if you hit play on all of them, which i do not recommend.
@@ -52,16 +52,16 @@ And then the last thing I was proud enough of to post publicly, right above here
     
     <item>
       <title>I Ain&#39;t Ever Made a Website Before</title>
-      <link>http://localhost:1313/webLog/posts/my-first-post/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</link>
       <pubDate>Thu, 17 Jul 2025 21:25:22 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/my-first-post/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</guid>
       <description>&lt;p&gt;I used AI (qwq) on my computer via Ollama. I thought, &amp;ldquo;self, you should
 do a website.&amp;rdquo;
 but, you see, self has never done a website. so i wanted to put this lil
 ai guy (who is a gal, canonically) to work. haha. that&amp;rsquo;s right folks, i&amp;rsquo;m
 an ai guy now.
-&lt;img src=&#34;http://localhost:1313/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
+&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
 Now, I know what you&amp;rsquo;re thinking because I&amp;rsquo;m from the future.
 The process has not been without its ups and downs, like I got it to help
 me a lot embedding my music from bandcamp, as well as that there
