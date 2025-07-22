@@ -1,0 +1,442 @@
+## ComfyUI-Manager: installing dependencies done.
+[2025-07-21 21:08] ** ComfyUI startup time: 2025-07-21 21:08:33.220048
+[2025-07-21 21:08] ** Platform: Linux
+[2025-07-21 21:08] ** Python version: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
+[2025-07-21 21:08] ** Python executable: /home/t/ComfyUI/comfyui/bin/python
+[2025-07-21 21:08] ** ComfyUI Path: /mnt/m3/SD/ComfyUI
+[2025-07-21 21:08] ** Log path: /home/t/BLOG/my-blog/content/posts/comfyui.log
+
+Prestartup times for custom nodes:
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/rgthree-comfy
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Easy-Use
+[2025-07-21 21:08]    3.3 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Manager
+[2025-07-21 21:08] 
+[2025-07-21 21:08] Checkpoint files will always be loaded safely.
+[2025-07-21 21:08] Total VRAM 24122 MB, total RAM 64230 MB
+[2025-07-21 21:08] pytorch version: 2.4.0+cu121
+[2025-07-21 21:08] Set vram state to: NORMAL_VRAM
+[2025-07-21 21:08] Device: cuda:0 NVIDIA GeForce RTX 3090 : cudaMallocAsync
+[2025-07-21 21:08] Using pytorch attention
+[2025-07-21 21:08] Python version: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
+[2025-07-21 21:08] ComfyUI version: 0.3.44
+[2025-07-21 21:08] ComfyUI frontend version: 1.23.4
+[2025-07-21 21:08] [Prompt Server] web root: /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/comfyui_frontend_package/static
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/pydantic/_internal/_fields.py:161: UserWarning: Field "model_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/kornia/feature/lightglue.py:44: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  @torch.cuda.amp.custom_fwd(cast_inputs=torch.float32)
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/pydantic/_internal/_fields.py:161: UserWarning: Field "model_name" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/pydantic/_internal/_fields.py:161: UserWarning: Field "model_params" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/pydantic/_internal/_fields.py:161: UserWarning: Field "model_version" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+[2025-07-21 21:08] /home/t/ComfyUI/comfyui/lib/python3.12/site-packages/pydantic/_internal/_fields.py:161: UserWarning: Field "model_seed" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+[2025-07-21 21:08] PATH BASENAME <function basename at 0x7f35f06d8ea0>
+[2025-07-21 21:08] REGISTRY DIR /home/t/BLOG/my-blog/content/posts/output/anynode
+[2025-07-21 21:08] ChromaDB Path: /home/t/BLOG/my-blog/content/posts/output/anynode/chroma_db_default, exists: True
+[2025-07-21 21:08] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2025-07-21 21:08] Web extensions folder found at /mnt/m3/SD/ComfyUI/web/extensions/ComfyLiterals
+[2025-07-21 21:08] Adding /mnt/m3/SD/ComfyUI/custom_nodes to sys.path
+[2025-07-21 21:08] [36mEfficiency Nodes:[0m Attempting to add Control Net options to the 'HiRes-Fix Script' Node (comfyui_controlnet_aux add-on)...[92mSuccess![0m
+[2025-07-21 21:08] [93mEfficiency Nodes Warning:[0m Failed to import python package 'simpleeval'; related nodes disabled.
+[2025-07-21 21:08] 
+[2025-07-21 21:08] Loaded Efficiency nodes from /mnt/m3/SD/ComfyUI/custom_nodes/efficiency-nodes-comfyui
+[2025-07-21 21:08] Loaded ControlNetPreprocessors nodes from /mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux
+[2025-07-21 21:08] Could not find AdvancedControlNet nodes
+[2025-07-21 21:08] Could not find AnimateDiff nodes
+[2025-07-21 21:08] Could not find IPAdapter nodes
+[2025-07-21 21:08] Could not find VideoHelperSuite nodes
+[2025-07-21 21:08] Could not load ImpactPack nodes Could not find ImpactPack nodes
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] Crystools version: 1.16.6
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz - Arch: x86_64 - OS: Linux 6.15.7-arch1-1
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] Pynvml (Nvidia) initialized.
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] GPU/s:
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] 0) NVIDIA GeForce RTX 3090
+[2025-07-21 21:08] [Crystools [0;32mINFO[0m] NVIDIA Driver: 575.64.03
+[2025-07-21 21:08] [34mComfy-Easy-Use v1.2.2: [92mLoaded[0m
+[2025-07-21 21:08] ### Loading: ComfyUI-Manager (V2.48.6)
+[2025-07-21 21:08] ### ComfyUI Revision: 3672 [7f492522] | Released on '2025-07-18'
+[2025-07-21 21:08] ------------------------------------------
+[2025-07-21 21:08] [34m### N-Suite Revision:[0m [32m0 [0m
+[2025-07-21 21:08] Current version of packaging: 24.1
+[2025-07-21 21:08] Version of cpuinfo: Not found
+[2025-07-21 21:08] Current version of git: 3.1.43
+[2025-07-21 21:08] Current version of moviepy: 1.0.3
+[2025-07-21 21:08] Current version of cv2: 4.7.0
+[2025-07-21 21:08] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2025-07-21 21:08] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2025-07-21 21:08] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2025-07-21 21:08] Current version of skbuild: 0.18.1
+[2025-07-21 21:08] Version of typing: Not found
+[2025-07-21 21:08] Current version of diskcache: 5.6.3
+[2025-07-21 21:08] Installing llama_cpp...
+[2025-07-21 21:08] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2025-07-21 21:08] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2025-07-21 21:08] Python version: None
+[2025-07-21 21:08] OS: Linux
+[2025-07-21 21:08] OS bit: 64
+[2025-07-21 21:08] Platform tag: cp312-cp312-manylinux_2_41_x86_64
+[2025-07-21 21:08] Unsupported Python version. Please use Python 3.9, 3.10 or 3.11.
+[2025-07-21 21:08] Current version of timm: 1.0.9
+[2025-07-21 21:08] Traceback (most recent call last):
+[2025-07-21 21:08]   File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-N-Nodes/__init__.py", line 64, in <module>
+    spec.loader.exec_module(module)
+[2025-07-21 21:08]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+[2025-07-21 21:08]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+[2025-07-21 21:08]   File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-N-Nodes/py/gptcpp_node.py", line 4, in <module>
+    from llama_cpp import Llama
+[2025-07-21 21:08] ModuleNotFoundError: No module named 'llama_cpp'
+[2025-07-21 21:08] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/nodes.py", line 2124, in load_custom_node
+    module_spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-PiperTTS/__init__.py", line 1, in <module>
+    from .nodes import PiperTTS
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-PiperTTS/nodes.py", line 3, in <module>
+    from piper.voice import PiperVoice
+ModuleNotFoundError: No module named 'piper'
+
+[2025-07-21 21:08] Cannot import /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-PiperTTS module for custom nodes: No module named 'piper'
+[2025-07-21 21:08] [0m[1;34m[SD Prompt Reader] [36mNode version: 1.3.4[0m
+[2025-07-21 21:08] [0m[1;34m[SD Prompt Reader] [36mCore version: 1.3.5[0m
+[2025-07-21 21:08] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/nodes.py", line 2124, in load_custom_node
+    module_spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-speech-dataset-toolkit/__init__.py", line 6, in <module>
+    from .ai.faster_whisper_nodes import (
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-speech-dataset-toolkit/ai/faster_whisper_nodes.py", line 5, in <module>
+    from faster_whisper import WhisperModel
+  File "/home/t/ComfyUI/comfyui/lib/python3.12/site-packages/faster_whisper/__init__.py", line 2, in <module>
+    from faster_whisper.transcribe import WhisperModel
+  File "/home/t/ComfyUI/comfyui/lib/python3.12/site-packages/faster_whisper/transcribe.py", line 10, in <module>
+    import ctranslate2
+  File "/home/t/ComfyUI/comfyui/lib/python3.12/site-packages/ctranslate2/__init__.py", line 21, in <module>
+    from ctranslate2._ext import (
+ImportError: libctranslate2-032e8c30.so.4.3.1: cannot enable executable stack as shared object requires: Invalid argument
+
+[2025-07-21 21:08] Cannot import /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-speech-dataset-toolkit module for custom nodes: libctranslate2-032e8c30.so.4.3.1: cannot enable executable stack as shared object requires: Invalid argument
+[2025-07-21 21:08] /home/t/BLOG/my-blog/content/posts
+[2025-07-21 21:08] ############################################
+[2025-07-21 21:08] /home/t/BLOG/my-blog/content/posts/custom_nodes/ComfyUI-NAI-styler/CSV
+[2025-07-21 21:08] ############################################
+[2025-07-21 21:08] []
+[2025-07-21 21:08] ############################################
+[2025-07-21 21:08] ------------------------------------------
+[2025-07-21 21:08] [34mComfyroll Studio v1.76 : [92m 175 Nodes Loaded[0m
+[2025-07-21 21:08] ------------------------------------------
+[2025-07-21 21:08] ** For changes, please see patch notes at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/blob/main/Patch_Notes.md
+[2025-07-21 21:08] ** For help, please see the wiki at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/wiki
+[2025-07-21 21:08] ------------------------------------------
+[2025-07-21 21:08] [36;20m[/mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux] | INFO -> Using ckpts path: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts[0m
+[2025-07-21 21:08] [36;20m[/mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux] | INFO -> Using symlinks: False[0m
+[2025-07-21 21:08] [36;20m[/mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux] | INFO -> Using ort providers: ['CUDAExecutionProvider', 'DirectMLExecutionProvider', 'OpenVINOExecutionProvider', 'ROCMExecutionProvider', 'CPUExecutionProvider', 'CoreMLExecutionProvider'][0m
+[2025-07-21 21:08] --------------
+[2025-07-21 21:08] *ComfyUI_Jags_Audiotools- nodes_loaded*
+[2025-07-21 21:08] --------------
+[2025-07-21 21:08] Initializing Flux Resolution Node, Flux Sampler Node, and Flux ControlNet Apply Node
+[2025-07-21 21:08] WARNING: Could not find OPENAI_API_KEY in .env, disabling gpt prompt generation.
+[2025-07-21 21:08] [36mEfficiency Nodes:[0m Attempting to add Control Net options to the 'HiRes-Fix Script' Node (comfyui_controlnet_aux add-on)...[92mSuccess![0m
+[2025-07-21 21:08] [93mEfficiency Nodes Warning:[0m Failed to import python package 'simpleeval'; related nodes disabled.
+[2025-07-21 21:08] 
+[2025-07-21 21:08] [FLUX KONTEXT] 🎨 Flux Kontext Creator loaded successfully
+[2025-07-21 21:08] [FLUX KONTEXT] 🎨 Flux Kontext Creator Experimental loaded successfully
+[2025-07-21 21:08] [FLUX KONTEXT] Ready for text-based image editing!
+[2025-07-21 21:08] [FLUX KONTEXT] Available nodes:
+[2025-07-21 21:08] [FLUX KONTEXT]   - 🎨 Flux Kontext Creator (single image)
+[2025-07-21 21:08] [FLUX KONTEXT]   - 🎨 Flux Kontext Creator Experimental (multi-reference)
+[2025-07-21 21:08] [FLUX KONTEXT] Total nodes loaded: 2
+[2025-07-21 21:08] 
+[2025-07-21 21:08] [92m[rgthree] Loaded 42 magnificent nodes.[00m
+[2025-07-21 21:08] [33m[rgthree] NOTE: Will NOT use rgthree's optimized recursive execution as ComfyUI has changed.[00m
+[2025-07-21 21:08] 
+[2025-07-21 21:08] Searge-SDXL v4.3.1 in /mnt/m3/SD/ComfyUI/custom_nodes/SeargeSDXL
+[2025-07-21 21:08] [34mWAS Node Suite: [0mBlenderNeko's Advanced CLIP Text Encode found, attempting to enable `CLIPTextEncode` support.[0m
+[2025-07-21 21:08] [34mWAS Node Suite: [0m`CLIPTextEncode (BlenderNeko Advanced + NSP)` node enabled under `WAS Suite/Conditioning` menu.[0m
+[2025-07-21 21:08] [34mWAS Node Suite: [0mOpenCV Python FFMPEG support is enabled[0m
+[2025-07-21 21:08] [34mWAS Node Suite [93mWarning: [0m`ffmpeg_bin_path` is not set in `/mnt/m3/SD/ComfyUI/custom_nodes/was-node-suite-comfyui/was_suite_config.json` config file. Will attempt to use system ffmpeg binaries if available.[0m
+[2025-07-21 21:08] [34mWAS Node Suite: [0mFinished.[0m [32mLoaded[0m [0m219[0m [32mnodes successfully.[0m
+[2025-07-21 21:08] 
+	[3m[93m"Art is the language of the heart and the window to the soul."[0m[3m - Unknown[0m
+[2025-07-21 21:08] 
+[2025-07-21 21:08] 
+Import times for custom nodes:
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/websocket_image_save.py
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/sdxl_prompt_styler
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-WanVideoKsampler
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Dragos_Nodes
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Universal-Styler
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_ADV_CLIP_emb
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_PRNodes
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-CascadeResolutions
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyLiterals
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/SD-Latent-Interposer
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/FluxKontextCreator
+[2025-07-21 21:08]    0.0 seconds (IMPORT FAILED): /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-PiperTTS
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/lora-info
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Eagle-PNGInfo
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Lora-Auto-Trigger-Words
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Image-Saver
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ControlAltAI-Nodes
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/efficiency-nodes-comfyui
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_UltimateSDUpscale
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/cg-use-everywhere
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfy-image-saver
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Custom-Scripts
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyMath
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui-prompt-reader-node
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/x-flux-comfyui
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui-ollama
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-segment-anything-2
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-GGUF
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/rgthree-comfy
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui_controlnet_aux
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Florence2
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-AnimateDiff-Evolved
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes
+[2025-07-21 21:08]    0.0 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/facerestore_cf
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_bitsandbytes_NF4
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui_dagthomas
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui-tensorops
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Manager
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-EasyAnimate
+[2025-07-21 21:08]    0.1 seconds (IMPORT FAILED): /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-speech-dataset-toolkit
+[2025-07-21 21:08]    0.1 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/eden_comfy_pipelines
+[2025-07-21 21:08]    0.2 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui-sound-lab
+[2025-07-21 21:08]    0.3 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Easy-Use
+[2025-07-21 21:08]    0.3 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/SeargeSDXL
+[2025-07-21 21:08]    0.4 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/comfyui-art-venture
+[2025-07-21 21:08]    0.7 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Jags_Audiotools
+[2025-07-21 21:08]    0.7 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Crystools
+[2025-07-21 21:08]    1.3 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/was-node-suite-comfyui
+[2025-07-21 21:08]    2.2 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/anynode
+[2025-07-21 21:08]    2.7 seconds: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-N-Nodes
+[2025-07-21 21:08] 
+[2025-07-21 21:08] Context impl SQLiteImpl.
+[2025-07-21 21:08] Will assume non-transactional DDL.
+[2025-07-21 21:08] No target revision found.
+[2025-07-21 21:08] Starting server
+
+[2025-07-21 21:08] To see the GUI go to: http://0.0.0.0:8188
+[2025-07-21 21:08] To see the GUI go to: http://[::]:8188
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] [ERROR] An error occurred while retrieving information for the 'CR Select Font' node.
+[2025-07-21 21:10] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/server.py", line 629, in get_object_info
+    out[x] = node_info(x)
+             ^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/server.py", line 593, in node_info
+    info['input'] = obj_class.INPUT_TYPES()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes/nodes/nodes_graphics_text.py", line 467, in INPUT_TYPES
+    file_list = [f for f in os.listdir(font_dir) if os.path.isfile(os.path.join(font_dir, f)) and f.lower().endswith(".ttf")]
+                            ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/share/fonts/truetype'
+
+[2025-07-21 21:10] []
+[2025-07-21 21:10] []
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] [ERROR] An error occurred while retrieving information for the 'CR Select Font' node.
+[2025-07-21 21:10] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/server.py", line 629, in get_object_info
+    out[x] = node_info(x)
+             ^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/server.py", line 593, in node_info
+    info['input'] = obj_class.INPUT_TYPES()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes/nodes/nodes_graphics_text.py", line 467, in INPUT_TYPES
+    file_list = [f for f in os.listdir(font_dir) if os.path.isfile(os.path.join(font_dir, f)) and f.lower().endswith(".ttf")]
+                            ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/share/fonts/truetype'
+
+[2025-07-21 21:10] []
+[2025-07-21 21:10] []
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] [ERROR] An error occurred while retrieving information for the 'CR Select Font' node.
+[2025-07-21 21:10] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/server.py", line 629, in get_object_info
+    out[x] = node_info(x)
+             ^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/server.py", line 593, in node_info
+    info['input'] = obj_class.INPUT_TYPES()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes/nodes/nodes_graphics_text.py", line 467, in INPUT_TYPES
+    file_list = [f for f in os.listdir(font_dir) if os.path.isfile(os.path.join(font_dir, f)) and f.lower().endswith(".ttf")]
+                            ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/share/fonts/truetype'
+
+[2025-07-21 21:10] []
+[2025-07-21 21:10] []
+[2025-07-21 21:10] FETCH DATA from: /mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI-Manager/extension-node-map.json [DONE]
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
+                  Your current root directory is: /mnt/m3/SD/ComfyUI
+            
+[2025-07-21 21:10] [ERROR] An error occurred while retrieving information for the 'CR Select Font' node.
+[2025-07-21 21:10] Traceback (most recent call last):
+  File "/mnt/m3/SD/ComfyUI/server.py", line 629, in get_object_info
+    out[x] = node_info(x)
+             ^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/server.py", line 593, in node_info
+    info['input'] = obj_class.INPUT_TYPES()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/m3/SD/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes/nodes/nodes_graphics_text.py", line 467, in INPUT_TYPES
+    file_list = [f for f in os.listdir(font_dir) if os.path.isfile(os.path.join(font_dir, f)) and f.lower().endswith(".ttf")]
+                            ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/share/fonts/truetype'
+
+[2025-07-21 21:10] []
+[2025-07-21 21:10] []
+[2025-07-21 21:15] got prompt
+[2025-07-21 21:15] Using pytorch attention in VAE
+[2025-07-21 21:15] Using pytorch attention in VAE
+[2025-07-21 21:15] VAE load device: cuda:0, offload device: cpu, dtype: torch.bfloat16
+[2025-07-21 21:15] CLIP/text encoder model load device: cuda:0, offload device: cpu, current: cpu, dtype: torch.float16
+[2025-07-21 21:15] clip missing: ['text_projection.weight']
+[2025-07-21 21:15] Requested to load FluxClipModel_
+[2025-07-21 21:15] loaded completely 20824.986622619628 9319.23095703125 True
+[2025-07-21 21:15] model weight dtype torch.float8_e4m3fn, manual cast: torch.bfloat16
+[2025-07-21 21:15] model_type FLUX
+[2025-07-21 21:15] Requested to load Flux
+[2025-07-21 21:15] loaded completely 16244.506553955078 11350.067443847656 True
+[2025-07-21 21:17] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:21<00:00,  5.57s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:21<00:00,  5.41s/it]
+[2025-07-21 21:17] Requested to load AutoencodingEngine
+[2025-07-21 21:17] loaded completely 203.77639770507812 159.87335777282715 True
+[2025-07-21 21:17] Prompt executed in 120.43 seconds
+[2025-07-21 21:19] got prompt
+[2025-07-21 21:19] loaded completely 10116.788985061645 9319.23095703125 True
+[2025-07-21 21:19] loaded completely 15330.319053955078 11350.067443847656 True
+[2025-07-21 21:20] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:21<00:00,  5.59s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:21<00:00,  5.42s/it]
+[2025-07-21 21:20] Requested to load AutoencodingEngine
+[2025-07-21 21:20] loaded completely 176.04977416992188 159.87335777282715 True
+[2025-07-21 21:20] Prompt executed in 88.76 seconds
+[2025-07-21 21:21] got prompt
+[2025-07-21 21:21] Requested to load Flux
+[2025-07-21 21:21] loaded completely 18201.881561584472 11350.067443847656 True
+[2025-07-21 21:22] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.80s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.52s/it]
+[2025-07-21 21:22] Requested to load AutoencodingEngine
+[2025-07-21 21:22] loaded completely 1786.3622817993164 159.87335777282715 True
+[2025-07-21 21:22] Prompt executed in 88.96 seconds
+[2025-07-21 21:24] got prompt
+[2025-07-21 21:24] Requested to load FluxClipModel_
+[2025-07-21 21:24] loaded completely 10184.149647521972 9319.23095703125 True
+[2025-07-21 21:24] loaded completely 15674.881553955078 11350.067443847656 True
+[2025-07-21 21:25] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.62s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.49s/it]
+[2025-07-21 21:25] Requested to load AutoencodingEngine
+[2025-07-21 21:25] loaded completely 223.86227416992188 159.87335777282715 True
+[2025-07-21 21:25] Prompt executed in 90.78 seconds
+[2025-07-21 21:27] got prompt
+[2025-07-21 21:27] loaded completely 10104.545155334472 9319.23095703125 True
+[2025-07-21 21:27] loaded completely 15186.194053955078 11350.067443847656 True
+[2025-07-21 21:28] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.76s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [01:22<00:00,  5.49s/it]
+[2025-07-21 21:28] Requested to load AutoencodingEngine
+[2025-07-21 21:28] loaded completely 203.58792877197266 159.87335777282715 True
+[2025-07-21 21:28] Prompt executed in 90.09 seconds
+[2025-07-21 21:29] got prompt
+[2025-07-21 21:29] Requested to load FluxClipModel_
+[2025-07-21 21:29] loaded completely 10387.034102249145 9319.23095703125 True
+[2025-07-21 21:29] loaded completely 15551.881546325683 11350.067443847656 True
+[2025-07-21 21:30] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:33<00:00,  5.63s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:33<00:00,  5.49s/it]
+[2025-07-21 21:30] Requested to load AutoencodingEngine
+[2025-07-21 21:30] loaded completely 511.0497741699219 159.87335777282715 True
+[2025-07-21 21:30] Prompt executed in 101.54 seconds
+[2025-07-21 21:31] got prompt
+[2025-07-21 21:31] model weight dtype torch.float8_e4m3fn, manual cast: torch.bfloat16
+[2025-07-21 21:31] model_type FLUX
+[2025-07-21 21:32] Requested to load Flux
+[2025-07-21 21:32] loaded completely 16768.820688552856 11350.067443847656 True
+[2025-07-21 21:33] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:32<00:00,  5.65s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:32<00:00,  5.46s/it]
+[2025-07-21 21:33] Prompt executed in 114.92 seconds
+[2025-07-21 21:35] got prompt
+[2025-07-21 21:35] loaded completely 10166.555897521972 9319.23095703125 True
+[2025-07-21 21:35] loaded completely 15242.444046325683 11350.067443847656 True
+[2025-07-21 21:37] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:32<00:00,  5.62s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:32<00:00,  5.47s/it]
+[2025-07-21 21:37] Requested to load AutoencodingEngine
+[2025-07-21 21:37] loaded completely 261.7997741699219 159.87335777282715 True
+[2025-07-21 21:37] Prompt executed in 100.47 seconds
+[2025-07-21 21:37] got prompt
+[2025-07-21 21:37] model weight dtype torch.float8_e4m3fn, manual cast: torch.bfloat16
+[2025-07-21 21:37] model_type FLUX
+[2025-07-21 21:37] Requested to load Flux
+[2025-07-21 21:37] loaded completely 16320.070688552856 11350.067443847656 True
+[2025-07-21 21:39] 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:33<00:00,  5.62s/it]100%|██████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [01:33<00:00,  5.48s/it]
+[2025-07-21 21:39] Prompt executed in 101.40 seconds
