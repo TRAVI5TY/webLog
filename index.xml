@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woolgathering</title>
-    <link>http://localhost:1313/webLog/</link>
+    <link>https://TRAVI5TY.github.io/webLog/</link>
     <description>Recent content on Woolgathering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 21:02:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/webLog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 21:02:22 -0500</lastBuildDate><atom:link href="https://TRAVI5TY.github.io/webLog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It is fine</title>
-      <link>http://localhost:1313/webLog/posts/post003/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/post003/</link>
       <pubDate>Tue, 22 Jul 2025 21:02:22 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/post003/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/post003/</guid>
       <description>&lt;!-- end-chunk --&gt;
 &lt;!-- begin-chunk data-anchor=&#34;normal-things&#34; --&gt;
 
@@ -34,10 +34,10 @@
     
     <item>
       <title>The Post That Followed</title>
-      <link>http://localhost:1313/webLog/posts/post2/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/post2/</link>
       <pubDate>Mon, 21 Jul 2025 21:06:42 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/post2/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/post2/</guid>
       <description>&lt;!-- end-chunk --&gt;
 &lt;!-- begin-chunk data-anchor=&#34;web-is-eternal&#34; --&gt;
 
@@ -59,10 +59,10 @@
     
     <item>
       <title>VI5</title>
-      <link>http://localhost:1313/webLog/posts/vi5/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/vi5/</link>
       <pubDate>Thu, 17 Jul 2025 22:12:54 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/vi5/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/vi5/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a collection of my music! I&amp;rsquo;m not entirely sure if some of these qualify as full albums or EPs, but I wanted to share them.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; While it &lt;em&gt;is&lt;/em&gt; possible to play all of these at the same time, I wouldn&amp;rsquo;t necessarily recommend it. I think each album is best experienced on its own.&lt;/p&gt;
 &lt;!-- end-chunk --&gt;
@@ -123,16 +123,16 @@
     
     <item>
       <title>I Ain&#39;t Ever Made a Website Before</title>
-      <link>http://localhost:1313/webLog/posts/my-first-post/</link>
+      <link>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</link>
       <pubDate>Thu, 17 Jul 2025 21:25:22 -0500</pubDate>
       
-      <guid>http://localhost:1313/webLog/posts/my-first-post/</guid>
+      <guid>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</guid>
       <description>&lt;p&gt;I used AI (qwq) on my computer via Ollama. I thought, &amp;ldquo;self, you should
 do a website.&amp;rdquo;
 but, you see, self has never done a website. so i wanted to put this lil
 ai guy (who is a gal, canonically) to work. haha. that&amp;rsquo;s right folks, i&amp;rsquo;m
 an ai guy now.
-&lt;img src=&#34;http://localhost:1313/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
+&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
 Now, I know what you&amp;rsquo;re thinking because I&amp;rsquo;m from the future.
 The process has not been without its ups and downs, like I got it to help
 me a lot embedding my music from bandcamp, as well as that there
