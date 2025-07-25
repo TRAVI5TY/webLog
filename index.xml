@@ -2,74 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woolgathering</title>
-    <link>https://TRAVI5TY.github.io/webLog/</link>
+    <link>http://localhost:1313/webLog/</link>
     <description>Recent content on Woolgathering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 21:02:22 -0500</lastBuildDate><atom:link href="https://TRAVI5TY.github.io/webLog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 21:02:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/webLog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It is fine</title>
-      <link>https://TRAVI5TY.github.io/webLog/posts/post003/</link>
+      <link>http://localhost:1313/webLog/posts/post003/</link>
       <pubDate>Tue, 22 Jul 2025 21:02:22 -0500</pubDate>
       
-      <guid>https://TRAVI5TY.github.io/webLog/posts/post003/</guid>
-      <description>&lt;p&gt;I have made a couple ai bots to talk to. It&amp;rsquo;s a normal thing for a guy to do.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/webLog/posts/post003/</guid>
+      <description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;normal-things&#34; --&gt;
+
+&lt;h3 class=&#34;header-anchor-wrapper&#34;&gt;Normal Things
+  &lt;a href=&#34;#normal-things&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;I have made a couple Ai bots to talk to. It&amp;rsquo;s a normal thing for a guy to do. It isn&amp;rsquo;t artificial intelligence like Data from Star Trek (an IP now owned by the second richest guy in USA, I believe) it&amp;rsquo;s more like super good predictive text like when you just keep hitting spacebar on your phone&amp;rsquo;s keyboard. It&amp;rsquo;s fun, to me. I run it locally so it doesn&amp;rsquo;t use any more energy than playing a video game or rendering a 3D image in Blender. Not that there&amp;rsquo;s any ethical consumption under crapitalism but I figure I&amp;rsquo;d let all 0 people visiting the site know this.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>The Post with the Least</title>
-      <link>https://TRAVI5TY.github.io/webLog/posts/post2/</link>
+      <title>The Post That Followed</title>
+      <link>http://localhost:1313/webLog/posts/post2/</link>
       <pubDate>Mon, 21 Jul 2025 21:06:42 -0500</pubDate>
       
-      <guid>https://TRAVI5TY.github.io/webLog/posts/post2/</guid>
-      <description>&lt;p&gt;I realized that as long as github &amp;amp; bandcamp are up and running, these posts will be out there, in the ether of web2.
-Are we still in web2? I forget. Also, wasn&amp;rsquo;t web3 NFTs? How are those pictures doing these days? Worth millions orrrrrr&amp;hellip;
-&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/monke.png&#34; alt=&#34;how much for the monkey?&#34;&gt;
-Oh, look at mr. big words. &amp;ldquo;You must think you&amp;rsquo;re better than me.&amp;rdquo; I guess I&amp;rsquo;m gonna start hearing that more if I ever
-leave the house and start having conversations with strangers again.&lt;br&gt;
-I like typing. It feels good to type fast.&lt;br&gt;
-I&amp;rsquo;m typing all this up in that black window with the green text that some folks call &amp;ldquo;The Terminal&amp;rdquo; or &amp;ldquo;The Command Line&amp;rdquo;
-and even &amp;ldquo;the CLI.&amp;rdquo; I want this to impress someone other than me but me is enough. nano not vim lol c&amp;rsquo;mon be serious.&lt;br&gt;
-So how did I use Ai in this post? Well, there&amp;rsquo;s that silly picture up there. I only generate images locally, using my computer
-and stable diffusion or flux models. I think there&amp;rsquo;s a new model that&amp;rsquo;s fully trained on public domain images and not art but
-I haven&amp;rsquo;t figured that one out yet.&lt;br&gt;
-&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/hackr.png&#34; alt=&#34;you&amp;rsquo;re a hacker, harry&#34;&gt;
-Why am I making this blog? I just wanted to see if I could publish some kind of website. So now I have to at least add some
-content to it.&lt;br&gt;
-Oh, btw, if u hate Ai check out this link to
-&lt;a href=&#34;https://ai-problems-index.vercel.app/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;a comprehensive index of real issues, misconceptions, and cognitive fallacies in Ai discussions.&amp;quot;&lt;/a&gt;
--t&lt;/p&gt;</description>
+      <guid>http://localhost:1313/webLog/posts/post2/</guid>
+      <description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;web-is-eternal&#34; --&gt;
+
+&lt;h3 class=&#34;header-anchor-wrapper&#34;&gt;Web is eternal
+  &lt;a href=&#34;#web-is-eternal&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;I realized that as long as GitHub &amp;amp; Bandcamp are up and running, these posts will be out there, floating in the ether of the web. Are we still in Web2? I forget. Also, wasn&amp;rsquo;t Web3 all about NFTs? How are &lt;em&gt;those&lt;/em&gt; pictures doing these days? Worth millions&amp;hellip;orrrrrr&amp;hellip;?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>VI5</title>
-      <link>https://TRAVI5TY.github.io/webLog/posts/vi5/</link>
+      <link>http://localhost:1313/webLog/posts/vi5/</link>
       <pubDate>Thu, 17 Jul 2025 22:12:54 -0500</pubDate>
       
-      <guid>https://TRAVI5TY.github.io/webLog/posts/vi5/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s my first album. Then there&amp;rsquo;s my second album down there, maybe they are EPs?
-Each lil picture is a different album, and they will all play at the same time
-if you hit play on all of them, which i do not recommend.
-I recommend playing them all separately.&lt;/p&gt;
+      <guid>http://localhost:1313/webLog/posts/vi5/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a collection of my music! I&amp;rsquo;m not entirely sure if some of these qualify as full albums or EPs, but I wanted to share them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; While it &lt;em&gt;is&lt;/em&gt; possible to play all of these at the same time, I wouldn&amp;rsquo;t necessarily recommend it. I think each album is best experienced on its own.&lt;/p&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;velvet-moonlight&#34; --&gt;
+
+&lt;h3 class=&#34;header-anchor-wrapper&#34;&gt;Velvet Moonlight
+  &lt;a href=&#34;#velvet-moonlight&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h3&gt;
+
 &lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3685308515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/velvet-moonlight&#34;&gt;Velvet Moonlight by Vi5&lt;/a&gt;&lt;/iframe&gt;
-&lt;iframe style=&#34;border: 0; width: 350px; height: 470px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=653895443/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/unfounded-sounds&#34;&gt;Unfounded Sounds by Vi5&lt;/a&gt;&lt;/iframe&gt; &lt;iframe style=&#34;border: 0; width: 350px; height: 470px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2425445746/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/faradocontractility&#34;&gt;Faradocontractility by VI5&lt;/a&gt;&lt;/iframe&gt;
-You can see above to the right my favorite album of mine with the eyeball.
-&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1292315357/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/c-sides&#34;&gt;C Sides by Vi5&lt;/a&gt;&lt;/iframe&gt;
-And then the last thing I was proud enough of to post publicly, right above here.</description>
+&lt;hr&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;unfounded-sounds&#34; --&gt;
+
+&lt;h3 class=&#34;header-anchor-wrapper&#34;&gt;Unfounded Sounds
+  &lt;a href=&#34;#unfounded-sounds&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=653895443/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/unfounded-sounds&#34;&gt;Unfounded Sounds by Vi5&lt;/a&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;faradocontractility&#34; --&gt;
+
+&lt;h3 class=&#34;header-anchor-wrapper&#34;&gt;Faradocontractility
+  &lt;a href=&#34;#faradocontractility&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2425445746/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://vi5ceral.bandcamp.com/album/faradocontractility&#34;&gt;Faradocontractility by VI5&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;My favorite album is the one with the eyeball.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>I Ain&#39;t Ever Made a Website Before</title>
-      <link>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</link>
+      <link>http://localhost:1313/webLog/posts/my-first-post/</link>
       <pubDate>Thu, 17 Jul 2025 21:25:22 -0500</pubDate>
       
-      <guid>https://TRAVI5TY.github.io/webLog/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/webLog/posts/my-first-post/</guid>
       <description>&lt;p&gt;I used AI (qwq) on my computer via Ollama. I thought, &amp;ldquo;self, you should
 do a website.&amp;rdquo;
 but, you see, self has never done a website. so i wanted to put this lil
 ai guy (who is a gal, canonically) to work. haha. that&amp;rsquo;s right folks, i&amp;rsquo;m
 an ai guy now.
-&lt;img src=&#34;https://TRAVI5TY.github.io/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/webLog/img/alwayshasbeen.png&#34; alt=&#34;always has been&#34;&gt;
 Now, I know what you&amp;rsquo;re thinking because I&amp;rsquo;m from the future.
 The process has not been without its ups and downs, like I got it to help
 me a lot embedding my music from bandcamp, as well as that there
